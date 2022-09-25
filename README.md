@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Spectricium/Spectricium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Spectricium UI
+- 🌱 I’m currently learning ... Lua
+- 👯 I’m looking to collaborate on ... Scripts Or Scripts Of People
+- 🤔 I’m looking for help with ... lua and Spectricium UI
+- 💬 Ask me about ... Of Exploiting
+- 📫 How to reach me: ... In Roblox My UserName Its TylerBanks7292
+- 😄 Pronouns: ... Fenix Or Fenixium
+- ⚡ Fun fact: ... Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Spectricium UI Uses The Library Kavo UI
