@@ -1,17 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Spectricium UI
-- 🌱 I’m currently learning ... Lua
-- 👯 I’m looking to collaborate on ... Scripts Or Scripts Of People
-- 🤔 I’m looking for help with ... lua and Spectricium UI
-- 💬 Ask me about ... Of Exploiting
-- 📫 How to reach me: ... In Roblox My UserName Its TylerBanks7292
-- 😄 Pronouns: ... Fenix Or Fenixium
-- ⚡ Fun fact: ... Scripting
-
-
-Spectricium UI Uses The Library Kavo UI
-
-
-I Use Comet 3
+- 🔭 I’m currently working on [REDACTED]
+- 🌱 I’m currently learning Lua and C#
+- 👯 I’m looking to collaborate on Any Project
+- 🤔 I’m looking for help with Get CPU Code Name
+- 💬 Ask me about Open Source
+- 📫 How to reach me: On My Email albertoc745@gmail.com
+- 😄 Pronouns: Fenix Or Fenixium
