@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on Any Project
 - 🤔 I’m looking for help with Get CPU Code Name
 - 💬 Ask me about Open Source
-- 📫 How to reach me: On My Email albertoc745@gmail.com
-- 😄 Pronouns: Fenix Or Fenixium
+- 📫 How to reach me: On twitter or X
+- 😄 Pronouns: a random dude, pingin
